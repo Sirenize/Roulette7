@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Roulette:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Roulette_jar</output-path>
+    <root id="archive" name="Roulette4.jar">
+      <element id="module-output" name="Roulette4" />
+    </root>
+  </artifact>
+</component>

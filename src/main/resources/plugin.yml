@@ -1,0 +1,20 @@
+name: Roulette
+version: 1.0
+main: net.sirenize.Roulette
+api-version: 1.21
+description: The Roulette SMP Official Plugin!
+author: Sirenize
+
+commands:
+  smpstart:
+    description: Start the SMP game mode.
+  withdraw:
+    description: Withdraw respawn chance in increments of 5%.
+
+permissions:
+  roulette.smpstart:
+    description: Allows the player to start the SMP game mode.
+    default: op
+  roulette.withdraw:
+    description: Allows the player to withdraw respawn chance.
+    default: true
